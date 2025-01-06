@@ -1,2 +1,2 @@
 # Backend
-This involves all the backnd work including projects and learnings
+This involves all the backnd work including projects and learnings.
